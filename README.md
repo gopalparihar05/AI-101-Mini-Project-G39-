@@ -78,8 +78,7 @@ python -m src.evaluate    # Member 4: test results
 
 ## Expected output
 
-`<img width="546" height="317" alt="image" src="https://github.com/user-attachments/assets/5f9617d1-4aae-4fa2-845c-ac6bedaf2d43" />
-`
+`![Project Execution](screenshots/output-terminal.png)`
 
 Files in `outputs/`: `clean_data.csv`, `eda_summary.txt`, `metrics_test.csv`, and 6 charts in `outputs/figures/`.
 
