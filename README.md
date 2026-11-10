@@ -34,7 +34,7 @@ Team number: `39`
 
 ## Dataset
 
-- Source: Kaggle, smartphone prices from online stores (file `processed_data2.csv`). `<ADD THE KAGGLE LINK>`
+- Source: Kaggle, smartphone prices from online stores (file `processed_data2.csv`). `https://www.kaggle.com/datasets/jakubkhalponiak/phones-2024`
 - Each row is one phone in one store with one storage size. The target is `price_usd`.
 - We remove 4 columns (`quantile_10`, `quantile_50`, `quantile_90`, `price_range`). They are made from the price, so they give the answer to the model.
 - A phone model appears in many rows. We keep all rows of one phone model on the same side of the train/test split. Without this, the test score looks better than it is.
