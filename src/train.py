@@ -1,4 +1,4 @@
-"""MEMBER 3 - Build and train the linear regression models.
+"""MEMBER 1 - Build and train the linear regression models.
 
 What this file does:
 1. Turn the text columns into number columns (one-hot encoding).
