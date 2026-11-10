@@ -6,12 +6,12 @@ AI101 Mini-Project, IIT Ropar. We predict the price (USD) of a smartphone from i
 
 Team number: `<TEAM NUMBER>`
 
-| Member | GitHub handle | Code part | Lead for |
-|--------|---------------|-----------|----------|
-| `<Name 1>` | `<@handle>` | `src/data_prep.py` (load and clean the data) | Documentation (README, project structure) |
-| `<Name 2>` | `<@handle>` | `src/eda.py` (exploration and charts) | PPT (5 slides) |
-| `<Name 3>` | `<@handle>` | `src/train.py`, `run_all.py`, `requirements.txt` (models) | Setup and steps to execute |
-| `<Name 4>` | `<@handle>` | `src/evaluate.py` (test results and charts) | Video (5 minutes) |
+| Member    | GitHub handle       | Code part | Lead for |
+|-----------|---------------------|-----------|----------|
+| `Nikhil`  | `nikh0024inst`      | `src/data_prep.py` (load and clean the data) | Documentation (README, project structure) |
+| `Rishu`   | `Rajexp1559`        | `src/eda.py` (exploration and charts) | PPT (5 slides) |
+| `Pranjal` | `Pranjal263`        | `src/train.py`, `run_all.py`, `requirements.txt` (models) | Setup and steps to execute |
+| `Gopal`   | `gopalparihar05`    | `src/evaluate.py` (test results and charts) | Video (5 minutes) |
 
 ## Project structure
 
