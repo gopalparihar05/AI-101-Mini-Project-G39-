@@ -23,6 +23,7 @@ Team number: `39`
 ├── data/
 │   └── processed_data2.csv Dataset (1708 rows, 38 columns)
 ├── src/
+│   ├── __init__.py        
 │   ├── config.py           Shared settings (paths, column lists)
 │   ├── data_prep.py        Member 1
 │   ├── eda.py              Member 2
