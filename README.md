@@ -4,7 +4,7 @@ AI101 Mini-Project, IIT Ropar. We predict the price (USD) of a smartphone from i
 
 ## Team and roles
 
-Team number: `<TEAM NUMBER>`
+Team number: `39`
 
 | Member    | GitHub handle       | Code part | Lead for |
 |-----------|---------------------|-----------|----------|
