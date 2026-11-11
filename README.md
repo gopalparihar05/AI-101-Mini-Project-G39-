@@ -92,7 +92,7 @@ Multiple linear regression (all features),0.562,274.642,157.813
 ## Links
 
 - Slides: `<LINK OR FILE PATH>`
-- Video: `<LINK>`
+- Video: `https://drive.google.com/drive/folders/17Vb5QSXz_T4KMyoBsGpaG0P2ozH7Knx1`
 
 ## AI-use disclosure
 
