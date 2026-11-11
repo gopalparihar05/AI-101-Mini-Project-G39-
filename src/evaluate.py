@@ -1,4 +1,4 @@
-"""MEMBER 4 - Evaluate the models on the test data and make the results charts.
+"""MEMBER 3 - Evaluate the models on the test data and make the results charts.
 
 What this file does:
 1. Score both models on the test data (data the model never saw).
