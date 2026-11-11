@@ -25,10 +25,10 @@ Team number: `39`
 ├── src/
 │   ├── __init__.py        
 │   ├── config.py           Shared settings (paths, column lists)
-│   ├── data_prep.py        Member 1
+│   ├── data_prep.py        Member 4
 │   ├── eda.py              Member 2
-│   ├── train.py            Member 3
-│   └── evaluate.py         Member 4
+│   ├── train.py            Member 1
+│   └── evaluate.py         Member 3
 └── outputs/                Made by the code (tables and charts)
 ```
 
