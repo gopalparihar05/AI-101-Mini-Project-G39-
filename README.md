@@ -61,10 +61,10 @@ pip install -r requirements.txt
 Each member can also run one part:
 
 ```bash
-python -m src.data_prep   # Member 1: clean data
+python -m src.data_prep   # Member 4: clean data
 python -m src.eda         # Member 2: charts
-python -m src.train       # Member 3: train the models
-python -m src.evaluate    # Member 4: test results
+python -m src.train       # Member 1: train the models
+python -m src.evaluate    # Member 3: test results
 ```
 
 ## Method
@@ -91,7 +91,7 @@ Multiple linear regression (all features),0.562,274.642,157.813
 
 ## Links
 
-- Slides: `<LINK OR FILE PATH>`
+- Slides: `ppt/AI101_Team39_Smartphone_Price_Prediction.pdf01.pdf`
 - Video: `https://drive.google.com/drive/folders/17Vb5QSXz_T4KMyoBsGpaG0P2ozH7Knx1`
 
 ## AI-use disclosure
