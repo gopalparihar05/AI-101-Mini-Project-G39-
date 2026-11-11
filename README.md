@@ -78,7 +78,7 @@ python -m src.evaluate    # Member 4: test results
 
 ## Expected output
 
-`![Project Execution](screenshots/output-terminal.png)`
+![Project Execution](screenshots/output-terminal.png)
 
 Files in `outputs/`: `clean_data.csv`, `eda_summary.txt`, `metrics_test.csv`, and 6 charts in `outputs/figures/`.
 
